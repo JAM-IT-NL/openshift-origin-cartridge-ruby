@@ -15,7 +15,7 @@ Vendor: ruby.org
 Cartridge-Version: 0.0.25
 Compatible-Versions:
 - 0.0.24
-Cartridge-Vendor: redhat
+Cartridge-Vendor: jam-it
 Categories:
 - service
 - ruby
